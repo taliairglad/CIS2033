@@ -1,4 +1,3 @@
-title: CIS Grader Info
 # Welcome to CIS 2033!
 ### Introduction
  Hello my name is Talia IrgangLaden and I will be your grader for this semester. I will be grading your homeworks, as well as holding office hours to help address any concerns you have related to the course material. Feel free to reach out!
